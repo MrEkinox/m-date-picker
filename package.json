@@ -79,6 +79,10 @@
   ],
   "dependencies": {
     "babel-runtime": "6.x",
+    "gulp": "^4.0.2",
     "rmc-picker": "~5.0.0"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
   }
 }
